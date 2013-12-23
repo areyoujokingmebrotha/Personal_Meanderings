@@ -1,0 +1,5 @@
+rm -R Personal_Meanderings
+git clone git://github.com/areyoujokingmebrotha/Personal_Meanderings.git
+#git remote add short git://github.com/areyoujokingmebrotha/Personal_Meanderings.git
+git remote -v
+git fetch short
